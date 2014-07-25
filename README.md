@@ -19,8 +19,8 @@ information from the user.
 - **Sedentary**: Little or no physical activity.
 - **Lightly Active**: Light exercise or activity 1-3 days per week.
 - **Moderately Active**: Moderate exercise or activity 3-5 days per week.
-– **Very Active**: Hard exercise or activity 6-7 days per week.
-– **Extremely Active**: Hard daily exercise or activity and physical work.
+- **Very Active**: Hard exercise or activity 6-7 days per week.
+- **Extremely Active**: Hard daily exercise or activity and physical work.
 
 *Gender* this is the users gender.
 
